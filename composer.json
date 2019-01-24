@@ -1,0 +1,20 @@
+{
+    "name": "hhya/fp",
+    "type": "library",
+    "description": "php format print extension library",
+    "homepage": "https://github.com/hhya",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hhya",
+            "email": "hhya66@163.com",
+            "role": "PHPer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "files": [
+            "tool.php"
+		]        
+    }
+}
