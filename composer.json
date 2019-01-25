@@ -1,5 +1,5 @@
 {
-    "name": "hhya/formatprint",
+    "name": "hhya/fp",
     "description": "php format print extension library",
     "type": "library",
     "license": "MIT",
